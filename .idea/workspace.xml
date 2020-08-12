@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfa7d51-52cb-441e-ab69-261fee486e47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-deopdown.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +39,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/cart-icon" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/homepage" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/cart-icon" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/pages/shop" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/pages/homepage" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,12 +69,18 @@
       <workItem from="1596998134134" duration="10982000" />
       <workItem from="1597097379976" duration="5533000" />
       <workItem from="1597178101692" duration="515000" />
-      <workItem from="1597259917555" duration="4309000" />
+      <workItem from="1597259917555" duration="7759000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1597271095048">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1597271095048" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
