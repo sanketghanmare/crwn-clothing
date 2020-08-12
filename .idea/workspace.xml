@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfa7d51-52cb-441e-ab69-261fee486e47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-deopdown.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/preview-collection/collection-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview-collection/collection-preview.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1596998134134" duration="10982000" />
       <workItem from="1597097379976" duration="5533000" />
       <workItem from="1597178101692" duration="515000" />
-      <workItem from="1597259917555" duration="7759000" />
+      <workItem from="1597259917555" duration="10931000" />
     </task>
     <servers />
   </component>
